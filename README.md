@@ -1,15 +1,22 @@
 # Howto Section
 
-Repository for the microbit playground [components section](https://microbit-playground.co.uk/howto/).
+The microbit playground website is built from these repositories on github:
 
-This repository is checked out at build time. There is a `draft` branch and a `publish` branch. All changes should be made to the `draft` branch and pulled in with a squash. `publish` then merges `draft`.
+* [**Program** section](https://microbit-playground.co.uk/programs/) [[repository](https://github.com/microbit-playground/programs)]
+* [**Components** section](https://microbit-playground.co.uk/components/) [[repository](https://github.com/microbit-playground/components)]
+* [**Blog posts** section](https://microbit-playground.co.uk/blog/) [[repository](https://github.com/microbit-playground/blog-posts)]
+* [**How to** section](https://microbit-playground.co.uk/howto/) [[repository](https://github.com/microbit-playground/programs)]
 
-### Contributing
+You can add a page to the website by adding to the repository.
+
+This repository is checked out at build time. There is a `draft` branch and a `publish` branch. All changes should be made to the `draft` branch.
+
+## Contributing
 See [the page on the website](https://microbit-playground.co.uk/about/how-to-contribute). Submissions are welcome.
 
 Submit an issue if you have an idea for an article.
 
-##### A Contribution Should...
+### A Contribution Should...
 * Not contain fixes or additions to existing articles; please use 'Issues'.
 * Be a pull request to the `draft` branch.
 * Have a `720x420px` `.png` teaser image in `/teaser/`.
@@ -18,15 +25,15 @@ Submit an issue if you have an idea for an article.
 * Licensed images used are mentioned in the `YAML` frontmatter of the `.md` file in the `acknowledgements` field if required.
 * Nothing too spammy or marketty or Google juicy.
 
-###### Optional
-* For public attribution on the website, add your name and details to the author repository.
+### Optional
+* For public attribution on the website, add your name and details to the [author repository](https://github.com/microbit-playground/author-database).
 
-###### A Brief Note
+## A Brief Note
 Github is very rude! I do not mean the people but github.com.  Picture the scene: you spend an age writing an article and are filled with pride and goodness about helping kids & adults learn. When I review and start to edit it, __rejected__ or __changes requested__ appears!
 
 Perhaps this works fine in some areas but I know there is an emotional attachment when writing learning resources.
 
-So please, do please translate these messages from robot into Human.
+So please, do please translate these message from robot into Human.
 
 ### Files in Repository
 The website's pages are generated from `.md` files in the main directory. The name of each `.md` file has a corresponding image in `/teaser/` of the same name.
@@ -36,11 +43,11 @@ The website's pages are generated from `.md` files in the main directory. The na
 * `/teaser/tiny` & `/teaser/card` -- Generated images sizes.
 * `/KITCHENSINK.md` -- Examples for fomatting.
 
-### Licensing
-#### Contributions
+## Licensing
+### Contributions
 Each submission is covered by the CC-BY-NC 3.0 licence. You retain copyright but allows the website to use it (but not make money).
 
-#### Images
+### Images
 
 
 | Image Name          |  Author          |   Licence         |
