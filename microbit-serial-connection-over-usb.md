@@ -25,7 +25,8 @@ cats: communication
 # Name of Component for index page
 simple-description: Serial over USB
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 The microbit has a USB serial interface allowing serial communication over USB. The 'REPL' feautre in mu is a serial connection to the microbit.

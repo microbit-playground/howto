@@ -31,7 +31,8 @@ cats: python
 # Name of Component for index page
 simple-description: pySerial Microbit GUI
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 ![GUI Zero example](images/GUIZero-pySerial-microbit-how-to-connect-app.png){:.ui .image .small .floated .right}

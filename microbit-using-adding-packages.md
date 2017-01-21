@@ -25,7 +25,8 @@ cats: other
 # Name of Component for index page
 simple-description: Add Packages to PXT
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 The PXT.IO editor can use packages to add additional components or for extra functionality to the microbit. At present, there are libraries to use a sonar sensor, neopixels and a thermocoupler.

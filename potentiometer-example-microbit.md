@@ -25,7 +25,8 @@ cats: component examples
 # Name of Component for index page
 simple-description: Potentiometer Examples
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 All examples use a simple 10k potentiometer.

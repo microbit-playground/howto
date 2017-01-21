@@ -28,7 +28,8 @@ simple-description: Blink LED
 video:
   teaser: microbit_blink_led_example
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 The classic example of a simple blinking LED

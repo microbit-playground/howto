@@ -27,7 +27,8 @@ acknowledgements: Pinout diagram from the <a href="https://www.microbit.co.uk/de
 # Name of Component for index page
 simple-description: I2C Hookup
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 Peripherals can be attached to the microbit over the I2C serial interface.
 

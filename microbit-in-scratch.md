@@ -25,7 +25,8 @@ cats: other
 # Name of Component for index page
 simple-description: microbit & Scratch
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 ### Required Dongle

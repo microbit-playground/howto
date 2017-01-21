@@ -25,7 +25,8 @@ cats: visual basic
 # Name of Component for index page
 simple-description: Small Basic & microbit
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 You can write a simple GUI to send commands to a microbit running Python:

@@ -25,7 +25,8 @@ cats: I2C
 # Name of Component for index page
 simple-description: I2C Bus Scan
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 I2C and SPI are protocols that can link the microbit to other devices, such as an LED matrix or an accelerometer.
 

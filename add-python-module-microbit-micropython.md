@@ -25,7 +25,8 @@ cats: python
 # Name of Component for index page
 simple-description: Add Python Modules to the microbit
 
-date: 2016-12-23T10:20:00Z
+date:         2016-12-23T10:20:00Z
+date-updated: 2016-12-23T10:20:00Z
 ---
 
 {{ page.collection }}
